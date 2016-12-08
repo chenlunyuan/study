@@ -1,0 +1,18 @@
+
+2016/12/08 -----------------------------------------------------------
+1、github 创建一个仓库
+2、本地安装git
+3、在一个目录下右键进入git bash界面
+    git clone https://github.com/chenlunyuan/study.git
+    git remote add origin https://github.com/chenlunyuan/study
+    git config --global user.email "your email"
+    git config --global user.name "your name"
+    git add .
+    git commit -m "message"
+    git push -u origin master
+
+
+1、安装 redis
+
+2、http://spring.io/guides/gs/messaging-redis/
+
